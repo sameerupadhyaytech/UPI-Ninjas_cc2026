@@ -1,4 +1,4 @@
-CINEMATIC UPI FINTECH EXPERIENCE
+# CINEMATIC UPI FINTECH EXPERIENCE
 
 An immersive and interactive visualization of India’s revolutionary **UPI (Unified Payments Interface)** system — built using **p5.js, React, and TypeScript**.
 
